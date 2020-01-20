@@ -2,22 +2,26 @@
   font-size: 48px;
   color: rgb(88, 196, 234);
 }
-div {
-  margin: 30px;
+
+#title-image{
+  margin-top: 38px;
 }
 #title-image{
-  margin-top: 148px;
+  margin-bottom: 38px;
 }
-
+#3_image{
+  margin-bottom: 48px;
+  opacity: 0.6;
+  filter: alpha(opacity=60); 
+}
 body {
-  background-image: url('zero-waste-experiment.jpg');
+  background-image: url('background_image_opacity.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
   background-opacity: 0.5;
-  
-  
 
 }
+
 
 
